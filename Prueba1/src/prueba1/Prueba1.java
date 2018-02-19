@@ -11,11 +11,16 @@ package prueba1;
  */
 public class Prueba1 {
 
+    static int x=0;
+    
+    
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         System.out.println("fgdfg");
+        
+        x++;
     }
     
 }
