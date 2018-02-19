@@ -6,7 +6,7 @@
 package prueba1;
 
 /**
- *
+ *HOLA DSFKJFKLFD
  * @author dguerra
  */
 public class Prueba1 {
